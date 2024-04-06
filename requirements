@@ -1,4 +1,5 @@
 azure
+azure-storage-blob
 azure-functions
 azure-common
 azure-core
