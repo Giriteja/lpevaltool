@@ -4,5 +4,6 @@ azure-core
 azure-ai-formrecognizer
 azure-identity
 azure-ai-ml
+azure-mgmt-core
 openai
 pillow
