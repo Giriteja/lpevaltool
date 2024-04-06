@@ -8,7 +8,7 @@ import PyPDF2
 from PIL import Image
 
 client = OpenAI(
-  api_key='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',  # this is also the default, it can be omitted
+  api_key='',  # this is also the default, it can be omitted
 )
 
 chatgpt_url = "https://api.openai.com/v1/chat/completions"
