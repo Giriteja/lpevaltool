@@ -3,5 +3,6 @@ azure-common
 azure-core
 azure-ai-formrecognizer
 azure-identity
+azure-ai-ml
 openai
 pillow
