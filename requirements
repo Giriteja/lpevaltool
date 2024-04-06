@@ -1,4 +1,5 @@
 inotify
+azure-common
 azure-core
 azure-ai-formrecognizer
 azure-identity
