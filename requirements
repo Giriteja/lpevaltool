@@ -1,6 +1,6 @@
 inotify
 azure-core
 azure-ai-formrecognizer
+azure-identity
 openai
 pillow
-azure
