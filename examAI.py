@@ -1,4 +1,4 @@
-from azure.core.credentials import AzureKeyCredential
+#from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 import streamlit as st
 from openai import OpenAI
